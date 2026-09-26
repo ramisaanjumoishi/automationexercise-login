@@ -56,3 +56,10 @@ Add repository secrets `USER_EMAIL`, `USER_PASSWORD`, `USER_NAME` (Settings > Se
 ## Notes
 - The site shows ads and, in some regions, a cookie consent dialog. `HomePage.dismissConsentIfShown()` handles the dialog.
 - Locators use the site's `data-qa` attributes for stability.
+
+![Test report](docs/report.png) 
+
+
+
+
+
